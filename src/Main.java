@@ -16,7 +16,7 @@ public class Main {
 
 
         System.out.println("Primeira Nota: " + medCalculator.getNoteOne());
-        System.out.println("Segunda Nota: " + medCalculator.getNoteTwo());clea
+        System.out.println("Segunda Nota: " + medCalculator.getNoteTwo());
         System.out.println("Terceira Nota: " + medCalculator.getNoteTree());
         System.out.println("Quarta Nota: " + medCalculator.getNoteFor());
 
